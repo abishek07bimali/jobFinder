@@ -1,4 +1,7 @@
-# job_finder
+# job_finder application in clean architecture using riverpod as state management and hive as local data storage
+ 
+ see the full project ::: https://youtu.be/tqQPNosYwhM?si=XTbWmL99s3FlECiV
+ 
 
 A new Flutter project.
 
